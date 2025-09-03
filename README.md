@@ -3,11 +3,16 @@
 <h3 align="center">A passionate Data Analyst, BI and Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://stands-virtuales.com/assets/images/clickshow.jpg">
 
--  🌱 I’m a Product Data Analyst
--  📄 Know about my experiences:
-  I have 5+ years of experience in data analysis, technology solutions development, and process optimization. My background includes building and managing data pipelines, developing dashboards, and delivering innovative solutions that create   value and improve strategic decision-making. I hold certifications in Machine Learning, Data Science with Python, Backend with Python/Django, and Full Stack Development.
-
-- 💬 **Data Analytics: Excel, Python, Power BI, SQL, Snowflake, Alteryx. Web Design: HTML, CSS**
+-  🌱 I’m a Product Data Analyst<br><br>
+-  📄 Experience:<br>
+Systems Engineer with 5+ years of experience in data analysis, technology solutions, and process optimization. Expert in Python, Power BI, Snowflake, AWS, and Excel. Certified in Machine Learning, Data Science with Python, and Full Stack Development. Recognized for innovative problem-solving and delivering impactful business insights. Seeking to contribute technical expertise and leadership to Stanley Black & Decker’s data-driven initiatives.
+<br><br>
+- 💬 **Skills** <br><br>
+  • Data & BI: Power BI, Snowflake, AWS (Alteryx), Excel, Access, Power Query, Power Automate<br>
+  • Programming: Python, JavaScript, HTML, CSS<br>
+  • Design: Illustrator, Photoshop<br>
+  • Project Tools: Jira<br>
+  • Languages: English (B2/C1)<br><br>
 
 - 📫 How to reach me **jotaslee3@gmail.com**
 
